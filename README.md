@@ -1,2 +1,2 @@
-# AVPlayerPIP
-iOS AVPlayer PIP Sample
+# WebRTCDemo
+Test projets to study webRTC concepts
