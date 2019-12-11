@@ -1,0 +1,3 @@
+video {
+  filter: blur(4px) invert(1) opacity(0.5);
+}
